@@ -2,7 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/com/spring/example/web/DAO/UserDAOImpl.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/spring/example/web/DAO/UserDAOImpl.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/test/java/com/spring/example/web/DAO/UserDAO.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/test/java/com/spring/example/web/DAO/UserDAOImpl.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/test/java/com/spring/example/web/SpringBootApplication.java" charset="UTF-8" />
